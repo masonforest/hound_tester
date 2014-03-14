@@ -1,3 +1,3 @@
 class Test
-  puts "this is a really really really really really really really really really really really really really  long line"
+  puts "this is a really really really really really really really really really really really really really  long lin"
 end
